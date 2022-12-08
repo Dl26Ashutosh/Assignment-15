@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "csv": "^1.2.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-fileupload": "^0.2.0",
     "fast-csv": "^2.5.0",
     "json2csv": "^3.11.5",
