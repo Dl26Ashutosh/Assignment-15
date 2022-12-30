@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^0.2.0",
     "fast-csv": "^2.5.0",
-    "json2csv": "^3.11.5",
+    "json2csv": "^5.0.7",
     "mongodb": "^2.2.36",
     "mongoose": "^5.9.23",
     "nodemon": "^2.0.4"
